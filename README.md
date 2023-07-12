@@ -27,7 +27,7 @@ Utiliza a base de dados "Relatório de Entrada e Saída" como fonte de dados.
 
 Layout do relatório:
 
-![rel_fat_custos](https://github.com/FernandaDamaceno/Imagens/blob/main/Relatorios_Power_BI/rel_fat_custos.png)
+![rel_fat_custos](https://github.com/FernandaDamaceno/Imagens/blob/dc5f3330d4990924686333339228502504a29c04/Relatorios_Power_BI/rel_fat_custos.png)
 
 
 #### Relatório de vendas 2019 e 2020 - Empresa Alimentos ABC
