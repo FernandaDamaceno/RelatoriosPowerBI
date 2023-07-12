@@ -23,7 +23,7 @@ Foram desenvolvidos os relatórios abaixo:
 - Relatório de vendas 2020 - Empresa Agro YZ
 
 #### Relatório faturamento vs custo de produção
-Utiliza a base de dados "Relatório de Entrada e Saída". 
+Utiliza a base de dados "Relatório de Entrada e Saída" como fonte de dados. 
 
 Layout do relatório:
 
@@ -31,14 +31,14 @@ Layout do relatório:
 
 
 #### Relatório de vendas 2019 e 2020 - Empresa Alimentos ABC
-Utiliza a base de dados "Relatorio de Vendas - Supermercado". 
+Utiliza a base de dados "Relatorio de Vendas - Supermercado" como fonte de dados. 
 
 Layout do relatório:
 
 ![rel_vendas](https://github.com/FernandaDamaceno/Imagens/blob/dc5f3330d4990924686333339228502504a29c04/Relatorios_Power_BI/rel_vendas.png)
 
 #### Relatório de vendas 2020 - Empresa Agro YZ
-Utiliza a base de dados "Relatorio de Vendas - Agronegócio". 
+Utiliza a base de dados "Relatorio de Vendas - Agronegócio" como fonte de dados.  
 
 Layout do relatório:
 
