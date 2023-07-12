@@ -6,7 +6,7 @@ Apresentar meu portfólio de relatórios construídos em Power BI, podendo inter
 https://sites.google.com/view/fernandamlima/p%C3%A1gina-inicial
 
 ### Créditos e inspirações
-As bases de dados utilizadas foram disponibilizadas no curso "Formação Business Intelligence" da ministrado por Jheython Vieira Santana da empresa Tetra Educação.
+As bases de dados utilizadas foram disponibilizadas no curso "Formação Business Intelligence" ministrado por Jheython Vieira Santana da empresa Tetra Educação.
 
 
 ### Tecnologia utilizada
